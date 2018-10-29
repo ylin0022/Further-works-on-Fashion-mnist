@@ -30,10 +30,10 @@ Try_Resnet.ipynb
 
 ##### Tips to know:
 * Just follow the blocks in each notebook file if you want to retry the codes because we built a clear structure for each one.  
-* Please mark for the main 4 methods, and regard Resnet as a discussion and comparison method because we are still working on it.
 
 -------------
 **Speed of classifiers with 10-fold CV**  
+
 |Classifier|Time with parallel processing(s)|Time without parallel processing(s)|  
 |:---:|:---:|:---:|  
 |SVM|460|1153.7|  
@@ -43,6 +43,7 @@ Try_Resnet.ipynb
 
 -------------
 **Performance of classifiers with 10-fold CV(parallel processing)**  
+
 |Classifier|Accuracy|Training time(s)|Predicting time(s)|Total time(s)|  
 |:---:|:---:|:---:|:---:|:---:|  
 |SVM|89.5%|407.82|52.18|460|  
